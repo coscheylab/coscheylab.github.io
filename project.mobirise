@@ -102,7 +102,7 @@
     "uniqCompNum": 188,
     "versionPublish": "5.8.0",
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "mbrsiteDomain": "dw51ulboou",
